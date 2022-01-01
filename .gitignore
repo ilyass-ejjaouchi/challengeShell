@@ -1,0 +1,22 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.svn
+
+*.swp
+#backups
+*.bak
+bak
+#trashes
+_trash
+.build
+
+#report files
+*.pdf
+
+#screenshots
+# *.png

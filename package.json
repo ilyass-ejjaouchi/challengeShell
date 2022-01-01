@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "*",
+    "cssnano": "^4.1.10",
+    "postcss": "^7.*",
+    "uglify-js": "*"
+  }
+}
